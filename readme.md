@@ -95,6 +95,11 @@ PI Url: control\get_annoucement_info.php <BR>
         <td>必填</td>
         <td>說明</td>
      </tr>
+      <tr>
+        <td>id</td>
+        <td>Required</td>
+        <td>id 流水號</td>
+     </tr>
      <tr>
         <td>title</td>
         <td>Required</td>
