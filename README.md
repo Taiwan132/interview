@@ -19,6 +19,6 @@
      </tr>
   </table>
   Responad:<br>
-  ```json
+  ```
   {statue: 0, msg:'成功'}
   ```
