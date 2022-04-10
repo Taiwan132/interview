@@ -2,7 +2,7 @@
     header("Content-Type:text/html; charset=utf-8");
     require 'conect.php';
     if (!isset($_POST['annoucement'])) {
-        exit(json_encode(array('statue'=>-1 ,'msg'=>'請輸入布告')));
+        exit(json_encode(array('statue'=>-1 ,'msg'=>'請輸入公布內文')));
     }
     if (!isset($_POST['title'])) {
         exit(json_encode(array('statue'=>-1 ,'msg'=>'請輸入標題')));
